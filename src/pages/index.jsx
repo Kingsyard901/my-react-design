@@ -53,7 +53,7 @@ const MainPage = () => {
             Some quick example text to build on the card title and make up the
             bulk of the card's content.
           </Card.Text>
-          <Button variant="warning">Go somewhere else maybe?</Button>
+          <Button variant="success">Go somewhere else maybe?</Button>
         </Card.Body>
       </Card>
       </Col>
